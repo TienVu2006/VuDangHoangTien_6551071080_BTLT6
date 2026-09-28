@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\BTLT_6\\bai5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C28B02-D579-52BF-F254-6764629295A5}|Bai5-Chuong5.csproj|d:\\download\\btlt_6\\bai5\\formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7C28B02-D579-52BF-F254-6764629295A5}|Bai5-Chuong5.csproj|solutionrelative:formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5157B250-5F1B-415D-9D46-2888B2D065D5}|Bai5-Chuong5.csproj|D:\\Download\\BTLT_6\\bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5157B250-5F1B-415D-9D46-2888B2D065D5}|Bai5-Chuong5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C28B02-D579-52BF-F254-6764629295A5}|Bai5-Chuong5.csproj|d:\\download\\btlt_6\\bai5\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C28B02-D579-52BF-F254-6764629295A5}|Bai5-Chuong5.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C28B02-D579-52BF-F254-6764629295A5}|Bai5-Chuong5.csproj|d:\\download\\btlt_6\\bai5\\formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C28B02-D579-52BF-F254-6764629295A5}|Bai5-Chuong5.csproj|solutionrelative:formchonghe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C28B02-D579-52BF-F254-6764629295A5}|Bai5-Chuong5.csproj|d:\\download\\btlt_6\\bai5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C28B02-D579-52BF-F254-6764629295A5}|Bai5-Chuong5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 151,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\BTLT_6\\bai5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Bai5-Chuong5\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\Bai5-Chuong5\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:58:45.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\Download\\BTLT_6\\bai5\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\Download\\BTLT_6\\bai5\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAASwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:55:55.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormChonGhe.cs",
+              "DocumentMoniker": "D:\\Download\\BTLT_6\\bai5\\FormChonGhe.cs",
+              "RelativeDocumentMoniker": "FormChonGhe.cs",
+              "ToolTip": "D:\\Download\\BTLT_6\\bai5\\FormChonGhe.cs",
+              "RelativeToolTip": "FormChonGhe.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:44:41.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormChonGhe.cs [Design]",
+              "DocumentMoniker": "D:\\Download\\BTLT_6\\bai5\\FormChonGhe.cs",
+              "RelativeDocumentMoniker": "FormChonGhe.cs",
+              "ToolTip": "D:\\Download\\BTLT_6\\bai5\\FormChonGhe.cs [Design]",
+              "RelativeToolTip": "FormChonGhe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:42:18.748Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Download\\BTLT_6\\bai5\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Download\\BTLT_6\\bai5\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T01:39:24.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
